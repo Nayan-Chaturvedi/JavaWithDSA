@@ -8,7 +8,7 @@ Scanner sc= new Scanner (System.in);
 System.out.println("enter the first digit");
 a=sc.nextInt();
 System.out.println("enter your second digit");
-b=sc.nextInt();
+b=sc.nextInt();j
 System.out.println("select the choice \n1-add \n2-sub\n3-mul ");
 ch=sc.nextInt();
 switch(ch)
